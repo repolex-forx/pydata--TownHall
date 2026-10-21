@@ -1,0 +1,18 @@
+{
+  "manifest_version": "1.0",
+  "org": "pydata",
+  "repo": "TownHall",
+  "versions": [
+    {
+      "commit": "8648b513db7df2162092cfd934d670e3df18bc23",
+      "parsed_at": "2026-10-21T20:37:04.123279+00:00",
+      "filetree": "filetree/8648b513db7df2162092cfd934d670e3df18bc23.nq.gz",
+      "blobs": [
+        "blob/17d6aee68993a6a0a7d1f751add07f57f442fb05.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
